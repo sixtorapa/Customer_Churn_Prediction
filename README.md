@@ -9,6 +9,4 @@ Este proyecto implementa un **pipeline de Machine Learning** para predecir la **
 - **Optimización de hiperparámetros** con `RandomizedSearchCV` 🔍
 - **Evaluación del modelo** usando **AUC-ROC, Precision-Recall y matriz de confusión** 📈
 
----
 
-## 📂 Estructura del Proyecto
